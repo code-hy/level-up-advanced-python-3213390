@@ -99,3 +99,4 @@
    33:38      Carmen Oliveras (FRA)                     10 Dec 2011      29 Jun 1971   Saint Germain en Laye FRA
    33:39      Michelle Cope-   2                        15 Nov 2015      31 Jan 1972   Leeds ENG
    33:40      Tatyana Pozdniakova- 6                    08 Jun 1997      04 Mar 1955   Middletown NY USA
+   25:50      John Connor (PHP)                         20 Dec 1998      30 Jul 1950   25 Boronia Avenue, Quezon City, Philippines
